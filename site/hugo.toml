@@ -1,0 +1,4 @@
+baseURL = 'mattjameschampion.com'
+languageCode = 'en-gb'
+title = 'Matt Champion'
+theme = 'danny'
