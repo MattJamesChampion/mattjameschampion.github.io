@@ -1,7 +1,8 @@
 +++
+title = 'Code Review Yourself First'
 date = '2025-07-16T08:00:00+01:00'
 draft = false
-title = 'Code Review Yourself First'
+aliases = ['/2025/07/16/code-review-yourself-first']
 +++
 
 One piece of advice that I like to give to any developer looking to improve is this: you should be reviewing your own code before you submit it anywhere, whether you’re committing to a branch or opening the final pull request. I’ve found few pieces of advice that can so quickly help improve someone’s code quality and, crucially, their *understanding* of what they’re writing.
