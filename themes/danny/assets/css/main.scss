@@ -13,6 +13,22 @@ main {
 header {
   border-bottom: 1px solid #222;
   margin-bottom: 1rem;
+  display: flex;
+  gap: 20px;
+
+  nav {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    
+    ul {
+      list-style: none;
+      display: flex;
+      align-items: center;
+      padding: 0;
+      gap: 10px;
+    }
+  }
 }
 
 footer {
