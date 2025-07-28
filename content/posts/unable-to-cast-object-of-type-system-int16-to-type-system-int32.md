@@ -16,8 +16,7 @@ _smaller_ than `Int32` and many languages will happily cast to a _larger_ versio
 risk of losing data/precision (unlike casting to a _smaller/less precise_ version which can change the underlying
 value). Any value that can fit into an `Int16` can fit into an `Int32`!
 
-{{< info "As a quick caveat, for all intents and purposes `Int16` is equivalent to short and `Int32` is equivalent to
-int. I’ll be swapping between them where they each make the most sense." >}}
+{{< info "As a quick caveat, for all intents and purposes `Int16` is equivalent to `short` and `Int32` is equivalent to `int`. I’ll be swapping between them where they each make the most sense." >}}
 
 # The Problem
 
