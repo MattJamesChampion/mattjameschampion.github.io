@@ -1,7 +1,7 @@
 +++
 title = '7 Years 50 Posts'
 date = '2025-07-22T08:00:00+01:00'
-draft = true
+draft = false
 aliases = ['/2025/07/22/7-years-50-posts']
 +++
 
