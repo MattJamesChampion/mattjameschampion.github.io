@@ -45,3 +45,20 @@ a {
   padding: 20px;
   overflow-x: scroll;
 }
+
+p code {
+  background: #DDD;
+}
+
+blockquote p, {
+  border-left: 1px solid grey;
+  padding: 10px;
+}
+
+.block {
+  border: 1px solid grey;
+  &.info-block {
+    padding: 10px;
+    background-color: lightgreen;
+  }
+}
